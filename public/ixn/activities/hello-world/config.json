@@ -33,6 +33,6 @@
    "edit": {
 		"url": "https://{{APP_NAME}}.herokuapp.com/ixn/activities/hello-world/",
 		"height": 350,
-		"width": 600
+		"width": 650
 	}
 }
